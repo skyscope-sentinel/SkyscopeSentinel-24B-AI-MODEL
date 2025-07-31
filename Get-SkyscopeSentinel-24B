@@ -1,0 +1,19 @@
+To download our flagship AI model follow this guide:
+
+## Step 1
+Install Ollama by going to:
+``` https://ollama.com ```
+
+## Step 2
+
+Directly from the link (if you have Ollama installed)
+``` https://ollama.com/skyscope/SkyscopeSentinel-24B ```
+
+## Main method of installation [Provided you have Ollama pre installed] Via Terminal/Shell
+``` ollama pull skyscope/SkyscopeSentinel-24B:latest ```
+
+
+Install and test out the incredible capabilities our model has to offer such as default capabilities we trained into our model which include:
+* Multi Agentic Co-Op implementation as a default
+* Ability to simulate a team of experts using it's own best logic determined by context of user requirements [Task/Project specific]
+* Ability to utilize/leverage tools, perform web search, RAG, and numerous other capabilities without having to ask - This ensures any task or project it is given is achieved for the user to completion as specified/requested or if able to do so without any additional context requesting it to do so - it will aim to by default exceed users expectations to it's full capacity/capability.
