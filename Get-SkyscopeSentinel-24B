@@ -1,42 +1,40 @@
-## 🚀 SkyscopeSentinel-24B: Your Ultimate AI Powerhouse!
+🚀 SkyscopeSentinel-24B: Your Ultimate AI Powerhouse!
 
 
-## Unleash the future of AI with SkyscopeSentinel-24B, our flagship model designed to redefine productivity and intelligence.</strong></p>
+Unleash the future of AI with SkyscopeSentinel-24B, our flagship model designed to redefine productivity and intelligence.</strong></p>
 
 
-## 📦 Download & Deploy SkyscopeSentinel-24B
+📦 Download & Deploy SkyscopeSentinel-24B
 
-### 🔧 Step 1: Install Ollama
+🔧 Step 1: Install Ollama
 
-SkyscopeSentinel-24B runs locally using the powerful [**Ollama**](https://ollama.com) runtime.
+SkyscopeSentinel-24B runs locally using the powerful Ollama , Get it from: https://ollama.com
 
 
-### 📥 Step 2: Pull SkyscopeSentinel-24B via Terminal
+📥 Step 2: Pull SkyscopeSentinel-24B via Terminal
 
 Once you’ve installed Ollama, simply run the following command in your terminal:
+``` ollama pull skyscope/SkyscopeSentinel-24B:latest ```
 
-```
-ollama pull skyscope/SkyscopeSentinel-24B:latest
-````
 
 Alternatively, click below to go to the download page:
 
-👉 [**Download SkyscopeSentinel-24B Directly**](https://ollama.com/skyscope/SkyscopeSentinel-24B)
+👉 Download SkyscopeSentinel-24B Directly from: https://ollama.com/skyscope/SkyscopeSentinel-24B
 
 
-## ✨ Key Capabilities
+✨ Key Capabilities
 
 SkyscopeSentinel-24B isn’t just smart—it’s revolutionary. Here's what it brings to your workflow:
 
-### 🤖 Multi-Agentic Co-Op Framework
+🤖 Multi-Agentic Co-Op Framework
 
 Collaborate with a simulated team of intelligent agents working in harmony on complex tasks and dynamic objectives.
 
-### 🧠 Simulated Team of Experts
+🧠 Simulated Team of Experts
 
 Our model simulates a council of specialized "personas" for any given project—strategically switching perspectives to deliver best-in-class results.
 
-### ⚙️ Autonomous Tool Usage
+⚙️ Autonomous Tool Usage
 
 Supports:
 
@@ -48,7 +46,7 @@ Supports:
 
 
 
-## 🧪 Why Choose SkyscopeSentinel-24B?
+🧪 Why Choose SkyscopeSentinel-24B?
 
 | Feature                | Description                                         |
 | ---------------------- | --------------------------------------------------- |
@@ -58,15 +56,13 @@ Supports:
 | 💬 Natural Interaction | Chat, code, plan, reason—fluidly and powerfully     |
 | 🛡️ Privacy-Centric    | 100% runs on your machine, no external data sharing |
 
----
 
-## ✅ Get Started Now!
+
+✅ Get Started Now!
 
 Join the AI revolution with **SkyscopeSentinel-24B** and transform how you build, think, and create. Start by installing Ollama and pulling the model:
 
-```
-ollama pull skyscope/SkyscopeSentinel-24B:latest
-```
+```ollama pull skyscope/SkyscopeSentinel-24B:latest```
 
 
 Built with ❤️ by the Skyscope Team | 🚀 Powered by Open Frontier Intelligence
