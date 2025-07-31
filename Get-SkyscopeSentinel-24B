@@ -1,4 +1,4 @@
-````markdown
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlwNGc0MnR6cmk1OWp1bWV0NzcyOWwwNmF2a2o1d2MwcGE3cnJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3JlYXRlZF9hdF8xNzIwNzU5NTIyJmNsaWNrX2ljb249Z2lmX2ljb24mdHlwZT1naWYmYmluYXJ5X2dvb2dsZV9hZ2U9dHJ1ZQ/bBw0gUeH5e7zS/giphy.gif" alt="SkyscopeSentinel Logo" width="300"/>
 </p>
@@ -98,4 +98,4 @@ ollama pull skyscope/SkyscopeSentinel-24B:latest
 <p align="center">
   Built with ❤️ by the Skyscope Team | 🚀 Powered by Open Frontier Intelligence
 </p>
-```
+
