@@ -1,19 +1,101 @@
-To download our flagship AI model follow this guide:
+````markdown
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlwNGc0MnR6cmk1OWp1bWV0NzcyOWwwNmF2a2o1d2MwcGE3cnJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3JlYXRlZF9hdF8xNzIwNzU5NTIyJmNsaWNrX2ljb249Z2lmX2ljb24mdHlwZT1naWYmYmluYXJ5X2dvb2dsZV9hZ2U9dHJ1ZQ/bBw0gUeH5e7zS/giphy.gif" alt="SkyscopeSentinel Logo" width="300"/>
+</p>
 
-## Step 1
-Install Ollama by going to:
-``` https://ollama.com ```
+<h1 align="center">🚀 SkyscopeSentinel-24B: Your Ultimate AI Powerhouse!</h1>
 
-## Step 2
+<p align="center"><strong>Unleash the future of AI with SkyscopeSentinel-24B, our flagship model designed to redefine productivity and intelligence.</strong></p>
 
-Directly from the link (if you have Ollama installed)
-``` https://ollama.com/skyscope/SkyscopeSentinel-24B ```
+---
 
-## Main method of installation [Provided you have Ollama pre installed] Via Terminal/Shell
-``` ollama pull skyscope/SkyscopeSentinel-24B:latest ```
+## 📦 Download & Deploy SkyscopeSentinel-24B
 
+### 🔧 Step 1: Install Ollama
 
-Install and test out the incredible capabilities our model has to offer such as default capabilities we trained into our model which include:
-* Multi Agentic Co-Op implementation as a default
-* Ability to simulate a team of experts using it's own best logic determined by context of user requirements [Task/Project specific]
-* Ability to utilize/leverage tools, perform web search, RAG, and numerous other capabilities without having to ask - This ensures any task or project it is given is achieved for the user to completion as specified/requested or if able to do so without any additional context requesting it to do so - it will aim to by default exceed users expectations to it's full capacity/capability.
+SkyscopeSentinel-24B runs locally using the powerful [**Ollama**](https://ollama.com) runtime.
+
+<p align="center">
+  <a href="https://ollama.com">
+    <img src="https://media.giphy.com/media/dAEiX3R2l0R7lDq4Bw/giphy.gif" alt="Ollama Install Animation" width="400"/>
+  </a>
+</p>
+
+---
+
+### 📥 Step 2: Pull SkyscopeSentinel-24B via Terminal
+
+Once you’ve installed Ollama, simply run the following command in your terminal:
+
+```bash
+ollama pull skyscope/SkyscopeSentinel-24B:latest
+````
+
+Alternatively, click below to go to the download page:
+
+👉 [**Download SkyscopeSentinel-24B Directly**](https://ollama.com/skyscope/SkyscopeSentinel-24B)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dAEiX3R2l0R7lDq4Bw/giphy.gif" alt="Terminal Pull" width="400"/>
+</p>
+
+---
+
+## ✨ Key Capabilities
+
+SkyscopeSentinel-24B isn’t just smart—it’s revolutionary. Here's what it brings to your workflow:
+
+### 🤖 Multi-Agentic Co-Op Framework
+
+Collaborate with a simulated team of intelligent agents working in harmony on complex tasks and dynamic objectives.
+
+### 🧠 Simulated Team of Experts
+
+Our model simulates a council of specialized "personas" for any given project—strategically switching perspectives to deliver best-in-class results.
+
+### ⚙️ Autonomous Tool Usage
+
+Supports:
+
+* 🔍 Web search
+* 🧠 RAG (Retrieval-Augmented Generation)
+* 🛠️ Tool-based reasoning
+* 🔗 External plugin integration
+  All without manual prompting.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l2JIhLp3k5qWf20zK/giphy.gif" alt="AI Capabilities" width="400"/>
+</p>
+
+---
+
+## 🧪 Why Choose SkyscopeSentinel-24B?
+
+| Feature                | Description                                         |
+| ---------------------- | --------------------------------------------------- |
+| 🧬 Model Size          | 24 Billion Parameters                               |
+| ⚡ Local Deployment     | No internet required once downloaded                |
+| 🧠 Adaptive Reasoning  | Dynamically evolves strategy mid-task               |
+| 💬 Natural Interaction | Chat, code, plan, reason—fluidly and powerfully     |
+| 🛡️ Privacy-Centric    | 100% runs on your machine, no external data sharing |
+
+---
+
+## ✅ Get Started Now!
+
+Join the AI revolution with **SkyscopeSentinel-24B** and transform how you build, think, and create. Start by installing Ollama and pulling the model:
+
+```bash
+ollama pull skyscope/SkyscopeSentinel-24B:latest
+```
+
+<p align="center">
+  <img src="https://media.giphy.com/media/bBw0gUeH5e7zS/giphy.gif" alt="Get Started" width="300"/>
+</p>
+
+---
+
+<p align="center">
+  Built with ❤️ by the Skyscope Team | 🚀 Powered by Open Frontier Intelligence
+</p>
+```
